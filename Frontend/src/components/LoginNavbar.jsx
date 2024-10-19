@@ -65,7 +65,7 @@ function LoginNavbar() {
                                     <a href="/Profile" className='text-customOrange'>
                                         <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
                                             <div className="w-10 rounded-full">
-                                                <img alt="Tailwind CSS Navbar component" src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+                                                <img alt="Tailwind CSS Navbar component" src="https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-avatar-image-for-profile-png-image_13001877.png" />
                                             </div>
                                         </div></a>
                                 
